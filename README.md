@@ -19,4 +19,4 @@ Analyze customer behavior by country using the Chinook music store database to u
 
 ## 📁 Files Included
 - `customer_spending_analysis.sql`: SQL queries with comments
-- `summary.csv` (optional): Exported query result (sales per country)
+
